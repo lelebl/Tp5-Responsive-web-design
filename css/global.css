@@ -249,7 +249,7 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
 
 @media screen and (min-width: 700px){
  *{
-        font-size: 10px; 
+        font-size: 11px; 
     }
 }
 
@@ -257,14 +257,14 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
 @media screen and (min-width: 1400px){
 
     *{
-        font-size: 15px; 
+        font-size: 16px; 
     }
 }
 
 @media screen and (max-width: 450px){
 
     *{
-        font-size: 5px; 
+        font-size: 6px; 
     }
 }
 
