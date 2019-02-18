@@ -237,6 +237,36 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
 
 }
 
+@media screen and (max-width: 700px){
+        body header form{
+            display: none;
+        }
+
+        main header .share{
+            display: none;
+        }
+}
+
+@media screen and (min-width: 700px){
+ *{
+        font-size: 10px; 
+    }
+}
+
+
+@media screen and (min-width: 1400px){
+
+    *{
+        font-size: 15px; 
+    }
+}
+
+@media screen and (max-width: 450px){
+
+    *{
+        font-size: 5px; 
+    }
+}
 
 
 
